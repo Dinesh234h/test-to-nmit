@@ -1,0 +1,9 @@
+/* Khata Specific Styling */
+.table-responsive {
+    overflow-x: auto;
+    width: 100%;
+}
+
+.table-responsive table {
+    min-width: 600px;
+}
